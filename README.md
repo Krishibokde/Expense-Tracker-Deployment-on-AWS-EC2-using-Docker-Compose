@@ -135,22 +135,22 @@ application page (<img width="1600" height="900" alt="website" src="https://gith
 
 ### Login Page
 
-![Login](<img width="1600" height="900" alt="website 2" src="https://github.com/user-attachments/assets/14f76189-4748-4600-bf1d-5b61f99f1481" />
+![Login] (<img width="1600" height="900" alt="website 2" src="https://github.com/user-attachments/assets/14f76189-4748-4600-bf1d-5b61f99f1481" />
 )
 
 ### AWS EC2 Instance
 
-![EC2](<img width="1600" height="900" alt="ec2 instance" src="https://github.com/user-attachments/assets/17d67802-67f0-451a-a613-852c657e9491" />
+![EC2] (<img width="1600" height="900" alt="ec2 instance" src="https://github.com/user-attachments/assets/17d67802-67f0-451a-a613-852c657e9491" />
 )
 
 ### Security Group Configuration
 
-![Security Group](<img width="1600" height="900" alt="security 8080 port" src="https://github.com/user-attachments/assets/9db4d7ad-2c7e-4f4c-a8a7-8d7c3e0f1ec0" />
+![Security Group] (<img width="1600" height="900" alt="security 8080 port" src="https://github.com/user-attachments/assets/9db4d7ad-2c7e-4f4c-a8a7-8d7c3e0f1ec0" />
 )
 
 ### Running Containers
 
-![Docker](<img width="1600" height="900" alt="docker containers" src="https://github.com/user-attachments/assets/dd275506-0f55-4fa2-8925-42e9867786d3" />
+![Docker] (<img width="1600" height="900" alt="docker containers" src="https://github.com/user-attachments/assets/dd275506-0f55-4fa2-8925-42e9867786d3" />
 )
 
 ---
